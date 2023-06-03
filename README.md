@@ -1,6 +1,6 @@
 # Mount Image Partition action
 
-An action that mounts an image partition. Based on `https://github.com/damianperera/mount-image-action`
+An action that mounts an image partition. Based on [damianperera/mount-image-action](https://github.com/damianperera/mount-image-action).
 
 # Inputs
   - `imagePath`: Path to image file.
